@@ -1,0 +1,4 @@
+hi this my first project in the version control system
+git and github 
+github is a version control sysytem
+
